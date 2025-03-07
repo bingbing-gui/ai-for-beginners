@@ -53,6 +53,8 @@ Azure AI 服务可以与 Logic Apps 和 Power Automate 集成，帮助企业用�
 
 API（应用程序编程接口）定义了一个软件组件如何调用另一个软件组件的服务，以及所需的信息。API 允许软件组件之间进行通信，从而即使一方更新，另一方仍可继续运行，而不会影响整个系统的稳定性。
 
+![](/learning-notes/materials/endpoints-keys.png)  
+
 ## Azure AI 服务在 Azure 上可用且安全
 
 Azure AI 服务是 基于云的，通过 Azure 资源 进行访问。这意味着它们的管理方式与其他 Azure 服务（如 平台即服务（PaaS）、基础设施即服务（IaaS） 或 托管数据库服务）相同。Azure 平台和 资源管理器（Resource Manager） 提供了一套统一的管理框架，涵盖 资源创建、删除、可用性和计费。
