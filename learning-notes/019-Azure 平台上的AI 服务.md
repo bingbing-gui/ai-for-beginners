@@ -1,4 +1,4 @@
-# 🌐 AI 系列第十九篇：Azure AI 服务
+# Azure AI 服务
 
 
 ## Azure AI 服务介绍
@@ -77,8 +77,5 @@ Azure AI 服务是 基于云的，通过 Azure 资源 进行访问。这意味�
 
 > 在某些情况下，AI 可能会被用于 可能影响个人隐私或权利 的方式。微软制定了 六大负责任 AI 原则，以确保 AI 服务符合 伦理和公平性。因此，部分 Azure AI 服务受到 使用限制，以确保其被 负责任地使用
 
-📌 **想了解更多关于 Azure AI 服务的开发选项？**
-
-你可以查阅 Azure AI 的 API 文档、SDK，或探索如何将 AI 与 Azure Logic Apps 和 Power Automate 结合，实现智能化的业务流程。
 
 📢 **欢迎 Star ⭐ 本仓库，获取更多 AI 资源！**
